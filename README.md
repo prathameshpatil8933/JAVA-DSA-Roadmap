@@ -53,6 +53,6 @@ _____________________________________________
 ## 💼 Goal
 To become a backend-ready software engineer with strong problem-solving skills, clean code habits, and a deep understanding of systems that scale  and crack interviews at high-growth startups and product companies in India.
 
-##🔥 Let's Connect
-If you're on a similar journey, feel free to fork this repo, drop a ⭐, or message me on LinkedIn.
+## 🔥 Let's Connect
+If you're on a similar journey, feel free to fork this repo, drop a ⭐, or message me on LinkedIn.<br>
 Let’s grow together 🚀
