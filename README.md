@@ -27,16 +27,16 @@ java-dsa-roadmap/<br>
 ├── Sorting/<br>
 └── Notes/
 
-## 📈 Weekly Progress Tracker
+## 🚧 Progress Tracker (2/20 Completed)
+### ✅ Arrays
+- [x] Two Sum – [Code](./Arrays/TwoSum.java)
+- [x] Reverse String – [Code](./Arrays/ReverseString.java)
 _____________________________________________
-| Week | Problems Solved  | Topics Covered  |
-|------|------------------|-----------------|
-| 1    |                  |                 |
-| 2    |                  |                 |
-| 3    |                  |                 |
-| 4    |                  |                 |
+### 🔜 Upcoming
+- [ ] Valid Parentheses
+- [ ] Binary Search
 _____________________________________________
-✔️ Updated every Sunday.
+✔️ Updated everyday.
 
 ---
 
