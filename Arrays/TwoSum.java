@@ -1,5 +1,4 @@
-[Problem:](https:leetcode.com/problems/two-sum/description/)
-Approach: HashMap <br>
+[LeetCode Profile](https:leetcode.com/u/pp3214/)Approach: HashMap <br>
 Time: O(n), Space: O(n)
 -------------------------------------------------------------------------------------------
 BRUTE FORCE 
