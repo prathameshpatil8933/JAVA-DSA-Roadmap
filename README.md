@@ -7,7 +7,7 @@ Welcome! This repository is my structured journey toward mastering **Data Struct
 
 ## 📌 About This Repository
 
-- 📅 **Timeline**: Jan 2025 – June 2025 (6-month roadmap)
+- 📅 **Timeline**: July 2025 – December 2025 (6-month roadmap)
 - 👨‍💻 **Language**: Java (OOPs + Clean Code Practices)
 - 🔍 **DSA Topics**: Arrays, Strings, HashMaps, Recursion, Linked Lists, Trees, DP, Graphs, etc.
 - ✅ **Daily Commitment**: 2–3 LeetCode/GFG problems + GitHub push
