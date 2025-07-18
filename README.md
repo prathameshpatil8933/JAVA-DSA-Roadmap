@@ -17,14 +17,14 @@ Welcome! This repository is my structured journey toward mastering **Data Struct
 
 ## 🔧 Structure
 java-dsa-roadmap/
-├── Arrays/
-├── Strings/
-├── HashMap/
-├── LinkedList/
-├── Trees/
-├── DynamicProgramming/
-├── Recursion/
-├── Sorting/
+├── Arrays/<br>
+├── Strings/<br>
+├── HashMap/<br>
+├── LinkedList/<br>
+├── Trees/<br>
+├── DynamicProgramming/<br>
+├── Recursion/<br>
+├── Sorting/<br>
 └── Notes/
 
 ## 📈 Weekly Progress Tracker
