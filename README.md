@@ -42,7 +42,7 @@ _____________________________________________
 
 ## ✍️ Sample Problem Format
 // Problem: https://leetcode.com/problems/two-sum/ <br>
-// Approach: HashMap
+// Approach: HashMap <br>
 // Time: O(n), Space: O(n)
 
 ## 🔗 Useful Links
