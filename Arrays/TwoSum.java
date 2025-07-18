@@ -1,4 +1,4 @@
-- [x] [Two Sum](https://leetcode.com/problems/two-sum/) – [Code](./Arrays/TwoSum.java)
+[Problem:](https:leetcode.com/problems/two-sum/description/)
 Approach: HashMap <br>
 Time: O(n), Space: O(n)
 -------------------------------------------------------------------------------------------
