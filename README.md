@@ -1,7 +1,7 @@
 # JAVA-DSA-Roadmap
 # 💻 Java DSA Roadmap – 2025 🚀
 
-Welcome! This repository is my structured journey toward mastering **Data Structures and Algorithms in Java**, as part of my preparation for **product-based companies offering ₹15+ LPA** (like CRED, Juspay, Zolve, etc).
+Welcome! This repository documents my structured journey to master Data Structures and Algorithms (DSA) in Java, with a focus on deep problem-solving skills, pattern recognition, and interview readiness for top product-based companies.
 
 ---
 
