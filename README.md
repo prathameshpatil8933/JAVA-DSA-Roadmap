@@ -46,4 +46,13 @@ _____________________________________________
 // Time: O(n), Space: O(n)
 
 ## 🔗 Useful Links
+- 🔸 [LeetCode Profile](https://leetcode.com/u/pp3214/)
+- 🔸 [GitHub Portfolio](https://github.com/prathameshpatil8933)
+- 🔸 [LinkedIn](https://www.linkedin.com/in/prathamesh-patil-408602257/)
 
+## 💼 Goal
+To become a backend-ready software engineer with strong problem-solving skills, clean code habits, and a deep understanding of systems that scale  and crack interviews at high-growth startups and product companies in India.
+
+##🔥 Let's Connect
+If you're on a similar journey, feel free to fork this repo, drop a ⭐, or message me on LinkedIn.
+Let’s grow together 🚀
