@@ -1,5 +1,6 @@
 //Link : https://leetcode.com/problems/valid-parentheses/description/ 
-//Brute Force 
+//Approach : Brute Force 
+//Time and Space : O(n^2) and O(n)
 class Solution {
     public boolean isValid(String s) {
     StringBuilder sb = new StringBuilder(s);
@@ -25,7 +26,8 @@ class Solution {
     }
 }
 
-//Optimized Approach
+//Approach : Stack
+//Time and Space : O(n) and uses O(n) 
 class Solution {
 public boolean isValid(String s) {
     Stack<Character> stack = new Stack<>();
